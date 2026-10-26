@@ -56,7 +56,7 @@ Microsoft Excel: Tables, PivotTables, PivotCharts, Data Model, DAX measures, sli
 
 | File | Description |
 |---|---|
-| `Superstore_Dashboard.xlsx` | Full workbook with data, pivots, dashboard and Insights sheet |
+| `Superstore_sales.xlsx` | Full workbook with data, pivots, dashboard and Insights sheet |
 | `dashboard.png` | Dashboard screenshot |
 | `slicers.mp4` | Short demo of the slicers |
 
